@@ -1,509 +1,293 @@
 [
-  {
+    {
+    "A.V.C. College of Engineering": {
+    "cse": [
+    {
     "name": "Sarika Srinivasan",
     "id": "20KD162634",
     "cgpa": 9.5,
     "email": "sarikasrinivasan@yahoo.com",
     "contact": "+91-555-963-7412"
-  },
-  {
+    },
+    {
     "name": "Aditya Rao",
     "id": "20KD138405",
     "cgpa": 9.3,
     "email": "adityarao@gmail.com",
     "contact": "+91-555-784-5632"
-  },
-  {
+    },
+    {
     "name": "Shruti Krishnan",
     "id": "20KD192063",
     "cgpa": 9.7,
     "email": "shrutikrishnan@yahoo.com",
     "contact": "+91-555-369-8521"
-  },
-  {
+    },
+    {
     "name": "Vikram Nair",
     "id": "20KD154792",
     "cgpa": 9.1,
     "email": "vikramnair@gmail.com",
     "contact": "+91-555-852-7413"
-  },
-  {
+    }
+    ],
+    "ece": [
+    {
     "name": "Sneha Menon",
     "id": "20KD174620",
     "cgpa": 9.4,
     "email": "snehamenon@yahoo.com",
     "contact": "+91-555-745-9632"
-  },
-  {
+    },
+    {
     "name": "Naveen Kumar",
     "id": "20KD140738",
     "cgpa": 9.0,
     "email": "naveenkumar@gmail.com",
     "contact": "+91-555-321-4567"
-  },
-  {
-    "name": "Priya Patel",
-    "id": "20KD116583",
-    "cgpa": 9.2,
-    "email": "priyapatel@yahoo.com",
-    "contact": "+91-555-987-6543"
-  },
-  {
-    "name": "Gaurav Iyer",
-    "id": "20KD199278",
-    "cgpa": 9.8,
-    "email": "gauraviyer@gmail.com",
-    "contact": "+91-555-456-7890"
-  },
-  {
-    "name": "Divya Menon",
-    "id": "20KD154386",
-    "cgpa": 9.5,
-    "email": "divyamenon@yahoo.com",
-    "contact": "+91-555-369-8521"
-  },
-  {
-    "name": "Arun Kumar",
-    "id": "20KD121830",
-    "cgpa": 9.3,
-    "email": "arunkumar@gmail.com",
-    "contact": "+91-555-784-5632"
-  },
-  {
-    "name": "Rajesh Sharma",
-    "id": "20KD168514",
-    "cgpa": 9.6,
-    "email": "rajeshsharma@yahoo.com",
-    "contact": "+91-555-123-4567"
-  },
-  {
-    "name": "Anjali Nair",
-    "id": "20KD136875",
-    "cgpa": 9.1,
-    "email": "anjalnair@gmail.com",
-"contact": "+91-555-963-7412"
-},
-{
-"name": "Sudha Krishnan",
-"id": "20KD156840",
-"cgpa": 9.4,
-"email": "sudhakrishnan@yahoo.com",
-"contact": "+91-555-852-7413"
-},
-{
-"name": "Sanjay Menon",
-"id": "20KD129523",
-"cgpa": 9.2,
-"email": "sanjaymenon@gmail.com",
-"contact": "+91-555-321-4567"
-},
-{
-"name": "Meena Shah",
-"id": "20KD175946",
-"cgpa": 9.7,
-"email": "meenashah@yahoo.com",
-"contact": "+91-555-784-5632"
-},
-{
-"name": "Avinash Nair",
-"id": "20KD188479",
-"cgpa": 9.0,
-"email": "avinashnair@gmail.com",
-"contact": "+91-555-987-6543"
-},
-{
-"name": "Anita Rajan",
-"id": "20KD157842",
-"cgpa": 9.5,
-"email": "anitarajan@yahoo.com",
-"contact": "+91-555-369-8521"
-},
-{
-"name": "Krishna Kumar",
-"id": "20KD140986",
-"cgpa": 9.3,
-"email": "krishnakumar@gmail.com",
-"contact": "+91-555-123-4567"
-},
-{
-"name": "Vikram Iyer",
-"id": "20KD163709",
-"cgpa": 9.8,
-"email": "vikramiyer@gmail.com",
-"contact": "+91-555-456-7890"
-},
-{
-"name": "Rohit Sharma",
-"id": "20KD131875",
-"cgpa": 9.1,
-"email": "rohitsharma@yahoo.com",
-"contact": "+91-555-852-7413"
-},
-{
-"name": "Amrita Nair",
-"id": "20KD179684",
-"cgpa": 9.4,
-"email": "amritanair@gmail.com",
-"contact": "+91-555-963-7412"
-},
-{
-"name": "Neha Menon",
-"id": "20KD148530",
-"cgpa": 9.2,
-"email": "nehamenon@yahoo.com",
-"contact": "+91-555-321-4567"
-},
-{
-"name": "Rajeev Patel",
-"id": "20KD194723",
-"cgpa": 9.6,
-"email": "rajeevpatel@gmail.com",
-"contact": "+91-555-784-5632"
-},
-{
-"name": "Siva Krishnan",
-"id": "20KD186572",
-"cgpa": 9.5,
-"email": "sivakrishnan@yahoo.com",
-"contact": "+91-555-369-8521"
-},
-{
-"name": "Deepak Kumar",
-"id": "20KD172538,
-"cgpa": 9.3,
-"email": "deepakkumar@gmail.com",
-"contact": "+91-555-456-7890"
-},
-{
-"name": "Shalini Nair",
-"id": "20KD163480",
-"cgpa": 9.4,
-"email": "shalininair@yahoo.com",
-"contact": "+91-555-123-4567"
-},
-{
-"name": "Ravi Menon",
-"id": "20KD179623",
-"cgpa": 9.2,
-"email": "ravimenon@gmail.com",
-"contact": "+91-555-852-7413"
-},
-{
-"name": "Priya Shah",
-"id": "20KD188775",
-"cgpa": 9.8,
-"email": "priyashah@yahoo.com",
-"contact": "+91-555-963-7412"
-},
-{
-"name": "Vivek Rajan",
-"id": "20KD191345",
-"cgpa": 9.1,
-"email": "vivekrajan@gmail.com",
-"contact": "+91-555-321-4567"
-},
-{
-"name": "Sarita Patel",
-"id": "20KD155497",
-"cgpa": 9.5,
-"email": "saritapatel@yahoo.com",
-"contact": "+91-555-784-5632"
-},
-{
-"name": "Prasad Iyer",
-"id": "20KD138900",
-"cgpa": 9.7,
-"email": "prasadiyer@gmail.com",
-"contact": "+91-555-369-8521"
-},
-{
-"name": "Anjali Sharma",
-"id": "20KD149689",
-"cgpa": 9.2,
-"email": "anjalisharma@yahoo.com",
-"contact": "+91-555-456-7890"
-},
-{
-"name": "Sujata Menon",
-"id": "20KD165482",
-"cgpa": 9.6,
-"email": "sujatamenon@gmail.com",
-"contact": "+91-555-123-4567"
-},
-{
-"name": "Manoj Kumar",
-"id": "20KD193754",
-"cgpa": 9.4,
-"email": "manojkumar@yahoo.com",
-"contact": "+91-555-852-7413"
-},
-{
-"name": "Ashwini Nair",
-"id": "20KD172967",
-"cgpa": 9.3,
-"email": "ashwininair@gmail.com",
-"contact": "+91-555-963-7412"
-},
-{
-"name": "Ganesh Krishnan",
-"id": "20KD160920",
-"cgpa": 9.1,
-"email": "ganeshkrishnan@yahoo.com",
-"contact": "+91-555-321-4567"
-},
-{
-"name": "Meera Shah",
-"id": "20KD149775",
-"cgpa": 9.8,
-"email": "meerashah@gmail.com",
-"contact": "+91-555-784-5632"
-},
-{
-"name":-555-321-4567"
-},
-{
-"name": "Pranav Menon",
-"id": "20KD184536",
-"cgpa": 9.3,
-"email": "pranavmenon@gmail.com",
-"contact": "+91-555-784-5632"
-},
-{
-"name": "Sreeja Shah",
-"id": "20KD172689",
-"cgpa": 9.8,
-"email": "sreejashah@yahoo.com",
-"contact": "+91-555-369-8521"
-},
-{
-"name": "Anjali Iyer",
-"id": "20KD163789",
-"cgpa": 9.2,
-"email": "anjaliiyer@gmail.com",
-"contact": "+91-555-456-7890"
-},
-{
-"name": "Krishna Nair",
-"id": "20KD187621",
-"cgpa": 9.5,
-"email": "krishnanair@yahoo.com",
-"contact": "+91-555-123-4567"
-},
-{
-"name": "Girish Sharma",
-"id": "20KD191234",
-"cgpa": 9.7,
-"email": "girishsharma@gmail.com",
-"contact": "+91-555-852-7413"
-},
-{
-"name": "Megha Kumar",
-"id": "20KD178654",
-"cgpa": 9.4,
-"email": "meghakumar@yahoo.com",
-"contact": "+91-555-963-7412"
-},
-{
-"name": "Manoj Patel",
-"id": "20KD194567",
-"cgpa": 9.1,
-"email": "manojpatel@gmail.com",
-"contact": "+91-555-321-4567"
-},
-{
-"name": "Shweta Menon",
-"id": "20KD163584",
-"cgpa": 9.3,
-"email": "shwetamenon@yahoo.com",
-"contact": "+91-555-784-5632"
-},
-{
-"name": "Ravi Shah",
-"id": "20KD173269",
-"cgpa": 9.8,
-"email": "ravishah@gmail.com",
-"contact": "+91-555-369-8521"
-},
-{
-"name": "Aishwarya Iyer",
-"id": "20KD167983",
-"cgpa": 9.2,
-"email": "aishwaryaiyer@yahoo.com",
-"contact": "+91-555-456-7890"
-},
-{
-"name": "Sanjay Nair",
-"id": "20KD159876",
-"cgpa": 9.5,
-"email": "sanjaynair@gmail.com",
-"contact": "+91-555-123-4567"
-},
-{
-      "name": "Maggie Smith",
-      "id": "20KD198193",
-      "cgpa": 9.5,
-      "email": "maggiesmith@yahoo.com",
-      "contact": "+91-555-123-4567"
-    },
+    }
+    ],
+    "mech": [
     {
-      "name": "John Davis",
-      "id": "20KD168787",
-      "cgpa": 8.8,
-      "email": "johndavis@gmail.com",
-      "contact": "+91-555-234-5678"
-    },
-    {
-      "name": "Alice Green",
-      "id": "20KD116874",
-      "cgpa": 9.3,
-      "email": "alicegreen@yahoo.com",
-      "contact": "+91-555-345-6789"
-    },
-    {
-      "name": "Robert Thompson",
-      "id": "20KD154076",
-      "cgpa": 8.6,
-      "email": "robertthompson@gmail.com",
-      "contact": "+91-555-456-7890"
-    },
-    {
-      "name": "Emily Hernandez",
-      "id": "20KD166049",
-      "cgpa": 9.1,
-      "email": "emilyhernandez@gmail.com",
-      "contact": "+91-555-567-8901"
-    },
-    {
-      "name": "Michael Mitchell",
-      "id": "20KD102256",
-      "cgpa": 9.7,
-      "email": "michaelmitchell@yahoo.com",
-      "contact": "+91-555-678-9012"
-    },
-    {
-      "name": "Jennifer Wright",
-      "id": "20KD176319",
-      "cgpa": 9.4,
-      "email": "jenniferwright@gmail.com",
-      "contact": "+91-555-789-0123"
-    },
-    {
-      "name": "William Parker",
-      "id": "20KD187096",
-      "cgpa": 8.3,
-      "email": "williamparker@yahoo.com",
-      "contact": "+91-555-890-1234"
-    },
-    {
-      "name": "Emma Rodriguez",
-      "id": "20KD114823",
-      "cgpa": 9.2,
-      "email": "emmarodriguez@gmail.com",
-      "contact": "+91-555-901-2345"
-    },
-    {
-      "name": "James King",
-      "id": "20KD106181",
-      "cgpa": 8.5,
-      "email": "jamesking@yahoo.com",
-      "contact": "+91-555-012-3456"
-    },
-    {
-      "name": "Lily Campbell",
-      "id": "20KD174350",
-      "cgpa": 9.6,
-      "email": "lilycampbell@gmail.com",
-      "contact": "+91-555-123-4567"
-    },
-  {
-    "name": "Alice Brown",
-    "id": "20KD131522",
-    "cgpa": 8.9,
-    "email": "alicebrown@yahoo.com",
-    "contact": "+91-555-345-6789"
-  },
-  {
-    "name": "Bob Davis",
-    "id": "20KD105419",
-    "cgpa": 9.2,
-    "email": "bobdavis@gmail.com",
-    "contact": "+91-555-456-7890"
-  },
-  {
-    "name": "Charlie Evans",
-    "id": "20KD118812",
-    "cgpa": 8.5,
-    "email": "charlieevans@yahoo.com",
-    "contact": "+91-555-567-8901"
-  },
-  {
-    "name": "David Franklin",
-    "id": "20KD160113",
-    "cgpa": 9.8,
-    "email": "davidfranklin@gmail.com",
-    "contact": "+91-555-678-9012"
-  },
-  {
-    "name": "Emma Garcia",
-    "id": "20KD131579",
+    "name": "Amit Sharma",
+    "id": "20KD137830",
     "cgpa": 8.7,
-    "email": "emmagarcia@yahoo.com",
-    "contact": "+91-555-789-0123"
-  },
-  {
-    "name": "Frank Harris",
-    "id": "20KD143970",
-    "cgpa": 9.1,
-    "email": "frankharris@gmail.com",
-    "contact": "+91-555-890-1234"
-  },
-  {
-    "name": "Grace Jackson",
-    "id": "20KD126416",
+    "email": "amitsharma@yahoo.com",
+    "contact": "+91-555-456-3217"
+    },
+    {
+    "name": "Sonia Singh",
+    "id": "20KD173621",
+    "cgpa": 8.9,
+    "email": "soniasingh@gmail.com",
+    "contact": "+91-555-963-7412"
+    },
+    {
+    "name": "Rahul Menon",
+    "id": "20KD182739",
+    "cgpa": 8.5,
+    "email": "rahulmenon@yahoo.com",
+    "contact": "+91-555-784-5632"
+    }
+    ]
+    }
+    },
+    {
+    "National Institute of Technology": {
+    "cse": [
+    {
+    "name": "Anu Nair",
+    "id": "20KD162634",
     "cgpa": 9.5,
-    "email": "gracejackson@yahoo.com",
-    "contact": "+91-555-901-2345"
-  },
-  {
-    "name": "Henry King",
-    "id": "20KD155741",
-    "cgpa": 8.8,
-    "email": "henryking@gmail.com",
-    "contact": "+91-555-012-3456"
-  },
-  {
-    "name": "Isabella Lee",
-    "id": "20KD129873",
+    "email": "anunair@yahoo.com",
+    "contact": "+91-555-963-7412"
+    },
+    {
+    "name": "Rahul Menon",
+    "id": "20KD138405",
     "cgpa": 9.3,
-    "email": "isabellalee@yahoo.com",
-    "contact": "+91-555-123-4567"
-  },
-  {
-    "name": "Jack Martinez",
-    "id": "20KD178316",
-    "cgpa": 8.6,
-    "email": "jackmartinez@gmail.com",
-    "contact": "+91-555-234-5678"
-  },
-  {
-    "name": "Kelly Nelson",
-    "id": "20KD193578",
-    "cgpa": 9.0,
-    "email": "kellynelson@yahoo.com",
-    "contact": "+91-555-345-6789"
-  },
-  {
-    "name": "Liam Oliver",
-    "id": "20KD116923",
+    "email": "rahulmenon@gmail.com",
+    "contact": "+91-555-784-5632"
+    },
+    {
+    "name": "Aditi Nair",
+    "id": "20KD192063",
     "cgpa": 9.7,
-    "email": "liamoliver@gmail.com",
-    "contact": "+91-555-456-7890"
-  },
-  {
-    "name": "Mia Perez",
-    "id": "20KD176331",
-    "cgpa": 8.4,
-    "email": "miaperez@yahoo.com",
-    "contact": "+91-555-567-8901
+    "email": "aditinair@yahoo.com",
+    "contact": "+91-555-369-8521"
+    },
+    {
+    "name": "Ravi Kumar",
+    "id": "20KD154792",
+    "cgpa": 9.1,
+    "email": "ravikumar@gmail.com",
+    "contact": "+91-555-852-7413"
+    }
+    ],
+    "ece": [
+    {
+    "name": "Krishna Patel",
+    "id": "20KD174620",
+    "cgpa": 9.4,
+    "email": "krishnapatel@yahoo.com",
+    "contact": "+91-555-745-9632"
+    },
+    {
+    "name": "Vidya Suresh",
+    "id": "20KD140738",
+    "cgpa": 9.0,
+    "email": "vidyasuresh@gmail.com",
+    "contact": "+91-555-321-4567"
+    }
+    ],
+    "mech": [
+    {
+    "name": "Suresh Menon",
+    "id": "20KD137830",
+    "cgpa": 8.7,
+    "email": "sureshmenon@yahoo.com",
+    "contact": "+91-555-456-3217"
+    },
+    {
+    "name": "Akhil Nair",
+    "id": "20KD173621",
+    "cgpa": 8.9,
+    "email": "akhilnair@gmail.com",
+    "contact": "+91-555-963-7412"
+    },
+    {
+    "name": "Raj Patel",
+    "id": "20KD182739",
+    "cgpa": 8.5,
+    "email": "rajpatel@yahoo.com",
+    "contact": "+91-555-784-5632"
+    }
+    ]
+    }
+    },
+    {
+    "Indian Institute of Technology": {
+    "cse": [
+    {
+    "name": "Smita Nair",
+    "id": "20KD162634",
+    "cgpa": 9.5,
+    "email": "smitanair@yahoo.com",
+    "contact": "+91-555-963-7412"
+    },
+    {
+    "name": "Arun Menon",
+    "id": "20KD138405",
+    "cgpa": 9.3,
+    "email": "arunmenon@gmail.com",
+    "contact": "+91-555-784-5632"
+    },
+    {
+    "name": "Krishna Nair",
+    "id": "20KD192063",
+    "cgpa": 9.7,
+    "email": "krishnanair@yahoo.com",
+    "contact": "+91-555-369-8521"
+    },
+    {
+    "name": "Vishnu Kumar",
+    "id": "20KD154792",
+    "cgpa": 9.1,
+    "email": "vishnukumar@gmail.com",
+    "contact": "+91-555-852-7413"
+    }
+    ],
+    "ece": [
+    {
+    "name": "Rajesh Patel",
+    "id": "20KD174620",
+    "cgpa": 9.4,
+    "email": "rajeshpatel@yahoo.com",
+    "contact": "+91-555-745-9632"
+    },
+    {
+    "name": "Anjali Menon",
+    "id": "20KD140738",
+    "cgpa": 9.0,
+    "email": "anjal@yahoo.com",
+    "contact": "+91-555-745-9632"
+    
+        }
+    ]
+    }
+},
+    {
+    "KCT":{
+      "cse":[
+        {
+          "name": "Saranya",
+          "id": "19KT167893",
+          "cgpa": 9.8,
+          "email": "saranyacse@gmail.com",
+          "contact": "+91-555-852-7412"
+        },
+        {
+          "name": "Rahul Sharma",
+          "id": "19KT138405",
+          "cgpa": 9.6,
+          "email": "rahulsharma09@gmail.com",
+          "contact": "+91-555-784-5698"
+        },
+        {
+          "name": "Sangeetha",
+          "id": "19KT192036",
+          "cgpa": 9.7,
+          "email": "sangeethacs@gmail.com",
+          "contact": "+91-555-369-8521"
+        },
+        {
+          "name": "Karthik",
+          "id": "19KT154792",
+          "cgpa": 9.4,
+          "email": "karthikcse@gmail.com",
+          "contact": "+91-555-852-7413"
+        }
+    ],
+      "ece":[
+        {
+          "name": "Pranav",
+          "id": "19KT178936",
+          "cgpa": 9.3,
+          "email": "pranavece@gmail.com",
+          "contact": "+91-555-745-9632"
+        },
+        {
+          "name": "Pooja",
+          "id": "19KT140738",
+          "cgpa": 9.1,
+          "email": "poojaece@gmail.com",
+          "contact": "+91-555-321-4567"
+        },
+        {
+          "name": "Gautham",
+          "id": "19KT186092",
+          "cgpa": 9.5,
+          "email": "gauthamece@gmail.com",
+          "contact": "+91-555-632-8965"
+        },
+        {
+          "name": "Anjali",
+          "id": "19KT154738",
+          "cgpa": 9.2,
+          "email": "anjaliece@gmail.com",
+          "contact": "+91-555-369-7412"
+        }
+    ],
+      "mech" :[
+        {
+          "name": "Srikanth",
+          "id": "19KT167836",
+          "cgpa": 8.9,
+          "email": "srikanthmech@gmail.com",
+          "contact": "+91-555-852-9632"
+        },
+        {
+          "name": "Rajkumar",
+          "id": "19KT138321",
+          "cgpa": 8.5,
+          "email": "rajkumarmech@gmail.com",
+          "contact": "+91-555-321-7854"
+        },
+        {
+          "name": "Sathish",
+          "id": "19KT196012",
+          "cgpa": 9.0,
+          "email": "sathishmech@gmail.com",
+          "contact": "+91-555-632-8965"
+        },
+        {
+          "name": "Vijay",
+          "id": "19KT154738",
+          "cgpa": 8.7,
+          "email": "vijaymech@gmail.com",
+          "contact": "+91-555-963-7412"
+        }
+      ]
+    }
 }
 ]
