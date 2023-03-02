@@ -1,0 +1,194 @@
+[
+  {
+    "college": "A.V.C. College of Engineering",
+    "Id": "AVCCE",
+    "region": "Mayiladuthurai, Tamil Nadu",
+    "unplaced": 143,
+    "placed": 173,
+    "total": 316
+  },
+  {
+    "college": "Aalim Muhammed Salegh College of Engineering",
+    "Id": "AMSCE",
+    "region": "Chennai, Tamil Nadu",
+    "unplaced": 94,
+    "placed": 178,
+    "total": 272
+  },
+  {
+    "college": "Aarupadai Veedu Institute of Technology",
+    "Id": "AVIT",
+    "region": "Chennai, Tamil Nadu",
+    "unplaced": 161,
+    "placed": 137,
+    "total": 298
+  },
+  {
+    "college": "Adhi College of Engineering and Technology",
+    "Id": "ACET",
+    "region": "Kanchipuram, Tamil Nadu",
+    "unplaced": 95,
+    "placed": 142,
+    "total": 237
+  },
+  {
+    "college": "Adhiparasakthi Engineering College",
+    "Id": "APEC",
+    "region": "Kanchipuram, Tamil Nadu",
+    "unplaced": 96,
+    "placed": 135,
+    "total": 231
+  },
+  {
+    "college": "Adhiyamaan College of Engineering",
+    "Id": "ACE",
+    "region": "Krishnagiri, Tamil Nadu",
+    "unplaced": 89,
+    "placed": 154,
+    "total": 243
+  },
+  {
+    "college": "Alpha College of Engineering",
+    "Id": "ACE",
+    "region": "Chennai, Tamil Nadu",
+    "unplaced": 114,
+    "placed": 110,
+    "total": 224
+  },
+  {
+    "college": "Arasu Engineering College",
+    "Id": "AEC",
+    "region": "Kumbakonam, Tamil Nadu",
+    "unplaced": 160,
+    "placed": 131,
+    "total": 291
+  },
+  {
+    "college": "Arignar Anna Institute of Science and Technology",
+    "Id": "AAIST",
+    "region": "Chennai, Tamil Nadu",
+    "unplaced": 96,
+    "placed": 149,
+    "total": 245
+  },
+  {
+    "college": "Arulmigu Meenakshi Amman College of Engineering",
+    "Id": "AMACE",
+    "region": "Kanchipuram, Tamil Nadu",
+    "unplaced": 142,
+    "placed": 156,
+    "total": 298
+  },
+  {
+    "college": "Siddhartha Institute of Technology and Sciences",
+    "Id": "SITS",
+    "region": "Krishna, Andhra Pradesh",
+    "unplaced": 128,
+    "placed": 157,
+    "total": 285
+  },
+  {
+    "college": "Bharathidasan Engineering College",
+    "Id": "BEC",
+    "region": "Vellore, Tamil Nadu",
+    "unplaced": 131,
+    "placed": 149,
+    "total": 280
+  },
+  {
+    "college": "V. V. College of Engineering",
+    "Id": "VVCE",
+    "region": "Tirunelveli, Tamil Nadu",
+    "unplaced": 155,
+    "placed": 139,
+    "total": 294
+  },
+  {
+    "college": "Sri Balaji Chockalingam Engineering College",
+    "Id": "SBCEC",
+    "region": "Krishnagiri, Tamil Nadu",
+    "unplaced": 106,
+    "placed": 127,
+    "total": 233
+  },
+  {
+    "college": "St. Joseph's College of Engineering",
+    "Id": "SJCE",
+    "region": "Chennai, Tamil Nadu",
+    "unplaced": 107,
+    "placed": 135,
+    "total": 242
+  },
+  {
+    "college": "Sri Ramakrishna Engineering College",
+    "Id": "SREC",
+    "region": "Coimbatore, Tamil Nadu",
+    "unplaced": 103,
+    "placed": 129,
+    "total": 232
+  },
+  {
+    "college": "Sri Venkateswara College of Engineering",
+    "Id": "SVCE",
+    "region": "Kancheepuram, Tamil Nadu",
+    "unplaced": 127,
+    "placed": 105,
+    "total": 232
+  },
+  {
+    "college": "Vel Tech Multi Tech Dr. Rangarajan Dr. Sakunthala Engineering College",
+    "Id": "VTMTRDSET",
+    "region": "Chennai, Tamil Nadu",
+    "unplaced": 102,
+    "placed": 156,
+    "total": 258
+  },
+  {
+    "college": "Sri Krishna College of Engineering and Technology",
+    "Id": "SKCET",
+    "region": "Coimbatore, Tamil Nadu",
+    "unplaced": 131,
+    "placed": 118,
+    "total": 249
+  },
+  {
+    "college": "Velammal College of Engineering and Technology",
+    "Id": "VCET",
+    "region": "Madurai, Tamil Nadu",
+    "unplaced": 155,
+    "placed": 107,
+    "total": 262
+  },
+  {
+    "college": "LENDI INSTITUTE OF ENGINEERING AND TECHNOLOGY",
+    "Id": "LIET",
+    "region": "JNTU K",
+    "unplaced": "450",
+    "placed": "50",
+    "total": "500"
+  },
+  {
+    "college": "ANITS",
+    "Id": "ANITS_ANITS",
+    "region": "VIZAG",
+    "unplaced": "500",
+    "placed": "4500",
+    "total": "5000"
+  },
+  {
+    "college": "RAGHU",
+    "Id": "RAGHU123",
+    "region": "BHIMILI",
+    "unplaced": "1000",
+    "placed": "1000",
+    "total": "2000"
+  },
+  {
+    "college": "RAGHU",
+    "Id": "RAGHU123",
+    "region": "BHIMILI",
+    "unplaced": "1000",
+    "placed": "1000",
+    "total": "2000"
+  }
+]

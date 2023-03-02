@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title> Bootstrap </title>
+
+    <!-- Including Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+
+    <!-- Including jQuery -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.js">
+    </script>
+
+    <!-- Including Bootstrap JS -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js">
+    </script>
+</head>
+
+<body>
+
+    <!-- Showing alert -->
+    <div id="alert" class="alert alert-success">
+        User Registered.
+    </div>
+    <div id="alert" class="alert alert-danger">
+        Login Failed.
+    </div>
+    
+    <div id="alert" class="alert alert-danger">
+        Incorrect Usermail or Password.
+    </div>
+    <div id="alert" class="alert alert-danger">
+        Data Updated.
+    </div>
+    <div id="alert" class="alert alert-danger">
+        Files Uploaded.
+    </div>
+
+    <script type="text/javascript">
+        setTimeout(function () {
+
+            // Closing the alert
+            $('.alert').alert('close');
+        }, 330);
+    </script>
+</body>
+
+</html>
